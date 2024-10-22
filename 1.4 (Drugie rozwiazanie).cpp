@@ -12,5 +12,5 @@ int c;
 std::cin >> a >> b >> c;
 int find_the_number = std::max({ a, b, c });
 
-std::cout << find_the_number << " " <<"it's the biggest number";
+std::cout << find_the_number << " " <<"is the biggest number you have entered.";
 }
