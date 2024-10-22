@@ -11,17 +11,17 @@ int number;
 std::cin >> number;
 
 if (number > 0)
-    {
-        std::cout << "The number is positive";
-    }
+{
+    std::cout << "The number is positive";
+}
 else if (number < 0)
-    {
-        std::cout << "The number is negative";
-    }
+{
+    std::cout << "The number is negative";
+}
 else
-    {
-        std::cout << "The number is zero";
-    }
+{
+    std::cout << "The number is zero";
+}
 }
 
 // Uruchomienie programu: Ctrl + F5 lub menu Debugowanie > Uruchom bez debugowania
