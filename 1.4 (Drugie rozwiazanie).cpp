@@ -4,7 +4,7 @@
 #include <algorithm> 
 int main()
 {
-std::cout << "Hello. Enter a number and check, which one is the biggest";
+std::cout << "Hello. Enter a number. Your program is going to find the largest number.";
 int a;
 int b;
 int c;
