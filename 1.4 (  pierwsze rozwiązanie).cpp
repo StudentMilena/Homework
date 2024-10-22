@@ -23,4 +23,3 @@ else
 	std::cout << number_3 << " " << "is the biggest number";
 }
 }
-
