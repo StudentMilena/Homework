@@ -5,9 +5,9 @@
 int main()
 {
 std::cout << "Hello. Enter a number and check which one is the biggest";
-int a = 0;
-int b = 0;
-int c = 0;
+int a;
+int b;
+int c;
 
 std::cin >> a >> b >> c;
 int find_the_number = std::max({ a, b, c });
