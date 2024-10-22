@@ -1,5 +1,3 @@
-﻿// 1.4 (Drugie rozwiazanie).cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
-//
 #include <iostream>
 #include <algorithm> 
 int main()
