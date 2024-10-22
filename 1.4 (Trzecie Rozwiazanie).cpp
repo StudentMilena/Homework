@@ -5,7 +5,7 @@
 
 int main()
 {
-std::cout << "Hello. Enter three numbers and check which one is the biggest.";
+std::cout << "Hello. Enter three numbers and check, which one is the biggest.";
 int a = 0;
 int b = 0;
 int c = 0;
