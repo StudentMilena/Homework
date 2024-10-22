@@ -14,7 +14,7 @@ if (is_even_or_odd == 0)
 }
 else if (is_even_or_odd % 2 == 0)
 {
-    std::cout << "The number is positive";
+    std::cout << "The number is even";
 }
 else
 {
