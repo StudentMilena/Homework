@@ -6,7 +6,7 @@
 
 int main()
 {
-    std::cout << "Hello, user. Enter a number and check, whether is positive or negative.
+    std::cout << "Hello, user. Enter a number and check, whether is positive or negative.";
     int number;
     std::cin >> number;
 
