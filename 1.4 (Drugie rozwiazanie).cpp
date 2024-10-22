@@ -2,7 +2,7 @@
 #include <algorithm> 
 int main()
 {
-std::cout << "Hello. Enter a number. The program is going to find the largest number.";
+std::cout << "Hello. Enter a number. The program is going to find the largest one.";
 int a;
 int b;
 int c;
