@@ -6,19 +6,19 @@
 
 int main()
 {
-    std::cout << "Hello, user. Enter a number and check, whether is positive or negative.";
-    int number;
-    std::cin >> number;
+std::cout << "Hello, user. Enter a number and check, whether is positive or negative.";
+int number;
+std::cin >> number;
 
-    if (number > 0)
+if (number > 0)
     {
         std::cout << "The number is positive";
     }
-    else if (number < 0)
+else if (number < 0)
     {
         std::cout << "The number is negative";
     }
-    else
+else
     {
         std::cout << "The number is zero";
     }
