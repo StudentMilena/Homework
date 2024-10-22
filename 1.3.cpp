@@ -3,10 +3,10 @@
 #include <iostream>
 
 int main()
-{
-    std::cout << "Hello, user. Enter a number and check, if is even or odd.";
-    int is_even_or_odd;
-    std::cin >> is_even_or_odd;
+{   
+std::cout << "Hello, user. Enter a number and check, if is even or odd.";
+int is_even_or_odd;
+std::cin >> is_even_or_odd;
 
     if (is_even_or_odd == 0)
     {
