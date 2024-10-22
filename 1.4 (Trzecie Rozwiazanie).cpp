@@ -2,7 +2,7 @@
 
 int main()
 {
-std::cout << "Hello. Enter three numbers. Your program is going to check, which one is the largest among three you have entered.";
+std::cout << "Hello. Enter three numbers. The program is going to check, which one is the largest among three you have entered.";
 int a = 0;
 int b = 0;
 int c = 0;
