@@ -4,7 +4,6 @@
 
 int main()
 {
-
 std::cout << "Hello. Enter three digits and check, which one is the greatest";
 int number_1;
 int number_2;
