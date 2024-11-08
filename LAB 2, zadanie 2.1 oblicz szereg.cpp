@@ -11,7 +11,6 @@
 			{
 				sum += j;
 			}
-
 		}
 		std::cout << "result: " << sum << '\n';
 	}
