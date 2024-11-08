@@ -8,7 +8,6 @@ int main()
 
     switch (month_number)
     {
-
     case 1:
         std::cout << "Styczen," << " " << "Pochmurno";
         break;
