@@ -1,7 +1,6 @@
 ﻿// trojkat pasacala.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
 //
 #include<iostream>
-#include <vector>
 int main()
 {
 	int liczba_wierszy = 0;
