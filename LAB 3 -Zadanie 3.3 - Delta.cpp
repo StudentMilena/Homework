@@ -1,13 +1,9 @@
-﻿// Delta w funkcji.cpp : Ten plik zawiera funkcję „main”. W nim rozpoczyna się i kończy wykonywanie programu.
-//
-
 #include <iostream>
 #include <cmath>
 using namespace std;
 
 void rownanie_kwadratowe(int a, int b, int c)              
-{
-    
+{    
     int delta = pow(b, 2) - (4 * a * c);
     if (delta > 0)           //dwa rozwiązania
     {
@@ -19,7 +15,6 @@ void rownanie_kwadratowe(int a, int b, int c)
 
         std::cout << x2 << " ";
     }
-
     else if (delta == 0)
     {
         int x = -b / 2 * a;
@@ -28,7 +23,6 @@ void rownanie_kwadratowe(int a, int b, int c)
     else
     {
         std::cout << "The equation has no solution";
-
     }
 }
 int main()
